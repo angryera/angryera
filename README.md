@@ -3,8 +3,9 @@
 <p align="center">
   Welcome to my coding chaos! Just like those feisty birds, I turn frustration into motivation. 🐦
 </p>
-
-<img src="https://github.com/angryera/angryera/blob/main/terrence-damor.gif" alt="Angry Bird GIF" />
+<p align="center">
+  <img src="https://github.com/angryera/angryera/blob/main/terrence-damor.gif" alt="Angry Bird GIF" />  
+</p>
 <p align="center">
   <strong>Teamwork makes the dream work!</strong> Let's build something awesome together! 🚀
 </p>
