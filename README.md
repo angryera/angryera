@@ -53,7 +53,6 @@ I specialize in the **JavaScript/TypeScript** ecosystem, backend architecture, c
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=angryera&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=angryera&theme=github-dark-blue&hide_border=true&background=0d1117&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9" height="165"/>
 
 </div>
