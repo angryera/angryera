@@ -6,9 +6,11 @@ I specialize in the **JavaScript/TypeScript** ecosystem, backend architecture, c
 
 <div align="center">
 
+[Sign my guestbook and share a kind message](https://angryera.atabook.org/)
+
 <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="200">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=440&lines=from+idea+to+production+%F0%9F%9A%80;microservices+%C2%B7+cloud+%C2%B7+devops;coffee+%E2%98%95+code+%F0%9F%92%BB+repeat)
+[![Guestbook Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=440&lines=%F0%9F%93%9D+Leave+a+message+in+my+guestbook;Share+something+nice+with+me+%F0%9F%91%8B)](https://angryera.atabook.org/)
 
 </div>
 
