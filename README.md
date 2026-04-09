@@ -19,7 +19,7 @@ I specialize in the **JavaScript/TypeScript** ecosystem, backend architecture, c
 - 🔭 **Currently:** Open to new opportunities in full stack & platform engineering
 - 🌱 **Focus:** Microservices, cloud-native apps, and developer experience
 - 💬 **Ask me about:** React/Node.js, Django, SaaS design, CI/CD, or mentoring
-- ⚡ **Fun facts:** I code 5x a week, lift (bodybuilding) 4x a week, play badminton 3x a month, and have beers with friends 2x a month.
+- ⚡ **Fun facts:** I code 5x a week, lift ~~4x a week~~ 5x a week, play badminton 2x a month, and have beers with friends 2x a month.
 
 ## Tech stack
 
